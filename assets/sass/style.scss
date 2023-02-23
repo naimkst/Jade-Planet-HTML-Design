@@ -1,6 +1,6 @@
 /*------------------------------------------------------------------
 [Master Stylesheet]
-Theme Name:     Jade - Clothing Shop HTML Template
+Theme Name:     Jade - Planting Shop HTML Template
 Version:        1.0.0
 -------------------------------------------------------------------*/
 
@@ -35,4 +35,15 @@ Version:        1.0.0
 
 // page
 @import "page/home-default";
+@import "page/about";
+@import "page/my-account";
+@import "page/blog";
+@import "page/blog-single";
+@import "page/error-404";
+@import "page/checkout";
+@import "page/carts";
+@import "page/shop";
+@import "page/shop-single";
+@import "page/contact";
+@import "page/about";
 
